@@ -1,7 +1,7 @@
 SimpleTranslate plugin for Pelican
 ===========================
 
-To install this plugin put it in your `plugins` folder and add reference to the plugin into your pelican configuration file (tipically `pelicanconf.py`):
+To install this plugin put it in your `plugins` folder (in a folser called `simpletranslate`) and add reference to the plugin into your pelican configuration file (tipically `pelicanconf.py`):
 
 	PLUGINS = [
 	...
