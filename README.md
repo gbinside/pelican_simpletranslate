@@ -106,4 +106,4 @@ Why reinvent the wheel?
 ------------------------
 
 Because the wheel included in Pelican is too big for me. Janja2 is used into Django as a realtime template system. In Pelican I have no need of performance because it's all statically generated. If my blog take 31 seconds instead of 30 to be generated (once a day), I can survive.
-So I created this smaller wheel that dont need compialtion of `mo` files into `po`
+So I created this smaller wheel that don't need compilation of `mo` files into `po` files.
